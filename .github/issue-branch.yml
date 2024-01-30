@@ -1,0 +1,3 @@
+branchName: "issue-${issue.number}"
+autoCloseIssue: true
+silent: false
