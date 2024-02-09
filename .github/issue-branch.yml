@@ -1,3 +1,8 @@
 branchName: "issue-${issue.number}"
+branches:
+  - label: enhancement
+    prefix: feature/
+  - label: bug
+    prefix: bugfix/
 autoCloseIssue: true
 silent: false
